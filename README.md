@@ -9,3 +9,5 @@
  [4. Pow(x, n)](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Pow(x%20%2C%20n)%20)
 
 [5. Container With Most Water](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Container%20With%20Most%20Water%20)
+
+[6. Product of Array Except Self](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Product%20of%20Array%20Except%20Self%20)
