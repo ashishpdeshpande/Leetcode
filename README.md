@@ -15,3 +15,5 @@
 [7. Search in Rotated Sorted Array](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Search%20in%20Rotated%20Sorted%20Array%20)
 
 [8. Peak Index in a Mountain Array](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Peak%20Index%20in%20a%20Mountain%20Array%20)
+
+[9. Single Element in a Sorted Array]()
