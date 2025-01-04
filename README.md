@@ -21,3 +21,7 @@
 [10. Split Array Largest Sum](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Split%20Array%20Largest%20Sum%20)
 
 [11. Sort Colors](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Sort%20Colors%20)
+
+[12. Merge Sorted Array]()
+
+[13. Next Permutation]()
