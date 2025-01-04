@@ -24,4 +24,4 @@
 
 [12. Merge Sorted Array]()
 
-[13. Next Permutation]()
+[13. Next Permutation](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Next%20Permutation%20)
