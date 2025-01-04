@@ -22,6 +22,6 @@
 
 [11. Sort Colors](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Sort%20Colors%20)
 
-[12. Merge Sorted Array]()
+[12. Merge Sorted Array](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Merge%20Sorted%20Array%20)
 
 [13. Next Permutation](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Next%20Permutation%20)
