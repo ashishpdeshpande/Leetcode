@@ -24,6 +24,6 @@
 
 [12. Merge Sorted Array](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Merge%20Sorted%20Array%20)
 
-[13. Rearrange Array Elements by Sign](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Rearrange%20Array%20Elements%20by%20Sign%20)
-
 [13. Next Permutation](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Next%20Permutation%20)
+
+[14. Rearrange Array Elements by Sign](https://github.com/ashishpdeshpande/Leetcode/tree/main/cpp%20/Rearrange%20Array%20Elements%20by%20Sign%20)
